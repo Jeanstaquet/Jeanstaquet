@@ -16,3 +16,5 @@ My stack:
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything
+
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeanstaquet&show_icons=true&theme=radical)
