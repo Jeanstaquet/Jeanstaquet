@@ -15,7 +15,7 @@ My stack:
 
 <br />
 
-- 🔭 I’m currently working on my exams
+- 🔭 I’m currently working on the GSOC'21 @Rocket.Chat
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything
