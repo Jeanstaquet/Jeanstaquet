@@ -1,6 +1,6 @@
 ### Hi there i'm Jean 👋
 
-Student at the University of London in Computer Science. One year's experience in the tech industry. I love coding, I write code to solve problems.
+Student at the University of London in Computer Science. 1.5 year's experience in the tech industry. I love coding, I write code to solve problems.
 Google Summer of Code'21 sponsored student @Rocket.Chat
 
 My stack:
