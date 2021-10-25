@@ -18,7 +18,7 @@ My stack:
 
 <br />
 
-- 🔭 I’m currently working on DSA on leetcode
+- 🔭 I’m currently working on DSA on leetcode ![Leetcode profile](https://leetcode.com/Jeanstaquet/)
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything
